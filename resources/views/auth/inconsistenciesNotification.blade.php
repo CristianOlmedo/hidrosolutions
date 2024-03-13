@@ -1,0 +1,1 @@
+<h1>Notificación de Inconsistencias</h1>
